@@ -1,10 +1,7 @@
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=900&size=50&pause=1000&color=151FF7&width=1000&height=100&lines=++++++++++++++++++++++++++++++++Junior+Python+Developer;++++++++++++++++++++++++++++++++Human;++++++++++++++++++++++++++++++++Musician;Ilya" alt="Typing SVG" /></a>
-</div>
-<h1 align="left">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ilya</a> 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="left">I Junior Python Developer</h3>
+<h3 align="center">I Junior Python Developer</h3>
 
 <br>
 
