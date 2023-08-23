@@ -49,15 +49,5 @@
       <img src="https://img.shields.io/badge/Celery-turquoise?style=for-the-badge&logo=Celery&logoColor=Celery"/>
 </div>
 
-<br>
 
-<h2>💬 My social network</h2>
-
-<div>
-  <ul>
-    <li>
-      https://t.me/neprostoilyaa
-    </li>
-  </ul>
-</div>
 
