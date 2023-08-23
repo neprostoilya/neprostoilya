@@ -16,7 +16,7 @@
 
 <h2>👨‍💻 CodeWars</h2>
 
-[![codewars](https://www.codewars.com/users/neprostoilya/badges/large)](https://www.codewars.com/users/username)   
+[![codewars](https://www.codewars.com/users/neprostoilya/badges/large)](https://www.codewars.com/users/neprostoilya)   
 
 <br>
 
