@@ -13,7 +13,7 @@
 <h2>🏆 Profile</h2>
 
       
-[![trophy](https://github-profile-trophy.vercel.app/?username=neprostoilya)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=neprostoilya&theme=dracula&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <br>
@@ -53,6 +53,5 @@
       <img src="https://img.shields.io/badge/Matplotlib-gold?style=for-the-badge&logo=Matplotlib&logoColor=Matplotlib"/>
       <img src="https://img.shields.io/badge/Celery-turquoise?style=for-the-badge&logo=Celery&logoColor=Celery"/>
 </div>
-
 
 
