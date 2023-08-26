@@ -44,6 +44,7 @@
       <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=HTML"/>
       <img src="https://img.shields.io/badge/CSS-brown?style=for-the-badge&logo=CSS&logoColor=CSS"/>  
       <img src="https://img.shields.io/badge/BeautifulSoup4-olive?style=for-the-badge&logo=BeautifulSoup4&logoColor=Celery"/>
+      <img src="https://img.shields.io/badge/Regex-lightyellow?style=for-the-badge&logo=Regex&logoColor=Regex"/>
 </div>
 <div>
       <img src="https://img.shields.io/badge/SQLAlchemy-emerald?style=for-the-badge&logo=SQLAlchemy&logoColor=white"/>
