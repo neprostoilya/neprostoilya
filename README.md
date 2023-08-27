@@ -53,6 +53,7 @@
       <img src="https://img.shields.io/badge/NumPy-lightpink?style=for-the-badge&logo=NumPy&logoColor=NumPy"/>
       <img src="https://img.shields.io/badge/Matplotlib-gold?style=for-the-badge&logo=Matplotlib&logoColor=Matplotlib"/>
       <img src="https://img.shields.io/badge/Celery-turquoise?style=for-the-badge&logo=Celery&logoColor=Celery"/>
+      <img src="https://img.shields.io/badge/API-lightblue?style=for-the-badge&logo=API&logoColor=API"/>
 </div>
 
 
