@@ -11,7 +11,7 @@ I'm interested in web development and building various applications.
 
 
 
-### 🌱 My Pet Projects                                    
+### 🌱 My Projects                                    
 
  - https://github.com/neprostoilya/cooking_web  -  Website for culinary recipes.
  - https://github.com/neprostoilya/shop_web  -  Web Store for purchasing different things with payment Stripe.
