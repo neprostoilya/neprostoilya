@@ -22,7 +22,7 @@
 <br>
 
 
-<h2>🌱 My Stack</h2>
+<h2>🌱 My Technologies</h2>
 
 <div>
       <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=Python"/>    
