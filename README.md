@@ -36,6 +36,8 @@ I'm interested in web development and building various applications.
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/>&nbsp; 
  
 </div>
 
