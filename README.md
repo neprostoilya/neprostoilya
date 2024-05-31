@@ -17,7 +17,7 @@ I'm interested in web development and building various applications.
  - https://github.com/neprostoilya/shop_web  -  Web Store for purchasing different things with payment Stripe.
  - https://github.com/neprostoilya/bookkeeping_web  -  Online Bookkeeping for Financial Management. It will help you visualize your monthly expenses and income.
  - https://github.com/neprostoilya/fast-food_bot  -  Fast-Food telegram bot for deliviery food with payment card.
- - https://github.com/neprostoilya/CRM  -  Web Api with telegram bot for pursharing furniture.
+ - https://github.com/neprostoilya/jrmebel_bot  -  Web Api with telegram bot for pursharing furniture.
  - https://github.com/neprostoilya/graph_app  -  GUI Windows application for temperature accounting and visualization.
 
 
