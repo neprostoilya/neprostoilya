@@ -1,6 +1,6 @@
 # @Neprostoilya
 
-I'm a Python developer who is passionate about developing applications.
+I'm a developer who is passionate about developing applications.
 
 I'm interested in web development and building various applications.
 
