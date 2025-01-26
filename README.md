@@ -20,21 +20,16 @@ I'm interested in web development and building various applications.
 - https://github.com/neprostoilya/jrmebel_bot - Web Api with telegram bot for pursharing furniture.
 - https://github.com/neprostoilya/graph_app - GUI Windows application for temperature accounting and visualization.
 - https://github.com/neprostoilya/restaurant_bot - Restoran Bot for order (Private)
-- https://github.com/neprostoilya/bot_builder - Bot builder for creating telegram bots (Private)
 - https://github.com/neprostoilya/moderator_bot - Bot for group moderation
 - https://github.com/neprostoilya/TodoProject - Android application for task management (Private)
-- https://github.com/neprostoilya/admin_bot - Bot for group administration
 - https://github.com/neprostoilya/game_ton_mini_upp - Mini game in Telegram (Private)
 - https://github.com/neprostoilya/free_gpt_bot - ChatGPT bot for Telegram (Private)
 - https://github.com/neprostoilya/megaphone_parser - Parser for Megafon store (Private)
 - https://github.com/neprostoilya/youtube_mp3_bot - Bot for downloading YouTube videos as MP3 (Private)
 - https://github.com/neprostoilya/binans_parser_with_google_sheets_bot - Parser for Binance with Google Sheets integration (Private)
-- https://github.com/neprostoilya/telegram_bot_with_google_sheets - Telegram bot with Google Sheets integration (Private)
-- https://github.com/neprostoilya/manager_orders_bot - Bot for order management (Private)
-- https://github.com/neprostoilya/live_stream_bot - Bot for live streaming (Private)
 - https://github.com/neprostoilya/avito_feed_bot - Parser for Avito listings (Private)
 - https://github.com/neprostoilya/cafe_bot - Bot for cafe ordering (Private)
-- https://github.com/neprostoilya/pyrogam_bot - Telegram bot using Pyrogram (Private)
+
 
 ### 💼 My Stack
 <div>
