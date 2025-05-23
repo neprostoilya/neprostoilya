@@ -1,38 +1,67 @@
-# @Neprostoilya
+<h1 align="center">Привет, я Ilya 👋</h1>
+<p align="center">
+  <a href="https://github.com/neprostoilya" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/125191093?v=4" width="120" style="border-radius:50%" alt="neprostoilya"/>
+  </a>
+</p>
 
-I'm a developer who is passionate about developing applications.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="36" alt="kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react" />
+</p>
 
-I'm interested in web development and building various applications.
+---
 
-### 📫 How To Reach Me:
+## 👨‍💻 О себе
 
-- Email: [freelancerweba@gmail.com](freelancerweba@gmail.com)
-- Telegram: [@neprostoilya](https://t.me/neprostoilya)
+Я — разработчик, увлечённый созданием полезных и интересных проектов на Python, Kotlin, JavaScript и TypeScript.
+Люблю автоматизацию, парсеры, ботов и эксперименты с новыми технологиями.
 
+---
 
-### 💼 My Stack
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp; 
+## 🚀 Навыки
+
+- Python (скрипты, парсеры, боты)
+- Kotlin (мобильная и серверная разработка)
+- JavaScript / TypeScript (веб, расширения, автоматизация)
+- HTML / CSS
+- Git, GitHub Actions
+- Быстро учусь новому, люблю решать нестандартные задачи
+
+---
+
+## 🌟 Мои проекты
+
+<details>
+  <summary>Смотреть список последних репозиториев</summary>
   
- 
-</div>
+- <a href="https://github.com/neprostoilya/hide_shorts_extension">hide_shorts_extension</a>: Браузерное расширение для скрытия Shorts на YouTube (JavaScript, публичный)
+- <a href="https://github.com/neprostoilya/parser_mts_app">parser_mts_app</a>: Парсер данных (Python, приватный)
+- <a href="https://github.com/neprostoilya/parser_tradedata_app">parser_tradedata_app</a>: Парсер торговых данных (приватный)
+- <a href="https://github.com/neprostoilya/parser_vakansiy_app">parser_vakansiy_app</a>: Парсер вакансий (HTML, приватный)
+- <a href="https://github.com/neprostoilya/tweet_parser_posts">tweet_parser_posts</a>: Парсер твитов (Python, приватный)
+- <a href="https://github.com/neprostoilya/twitter_parser_bot">twitter_parser_bot</a>: Бот для парсинга Twitter (Python, приватный)
+- <a href="https://github.com/neprostoilya/sophia_logistics">sophia_logistics</a>: Логистическая система (TypeScript, приватный)
+- <a href="https://github.com/neprostoilya/search_nft_mini_up">search_nft_mini_up</a>: Поиск NFT (Python, приватный)
+- <a href="https://github.com/neprostoilya/template_mini_up">template_mini_up</a>: Шаблон мини-приложения (Python, приватный)
+- ...и ещё <a href="https://github.com/search?q=user%3Aneprostoilya+fork%3Afalse&type=repositories&sort=updated">28 репозиториев</a>
+</details>
 
+---
 
-### 👨‍💻 CodeWars
-[![codewars](https://www.codewars.com/users/neprostoilya/badges/large)](https://www.codewars.com/users/neprostoilya)   
+## 📫 Контакты
 
-### 📊 Statistics
+- Telegram: [@neprostoilya](https://t.me/neprostoilya)
+- Email: neprostoilyaa@gmail.com
 
-[![Ilya Chaplenko's](https://github-readme-stats.vercel.app/api?username=neprostoilya&show_icons=true&theme=transparent))](https://github.com/neprostoilya/github-readme-stats)
+---
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neprostoilya&show_icons=true&theme=radical" alt="neprostoilya's GitHub stats" />
+</p>
